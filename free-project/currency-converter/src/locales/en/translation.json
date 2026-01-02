@@ -1,0 +1,38 @@
+{
+  "title": "Currency Converter",
+  "currencies": {
+    "USD": {
+      "code": "USD",
+      "name": "United States Dollar",
+      "symbol": "$"
+    },
+    "EUR": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "GBP": {
+      "code": "GBP",
+      "name": "British Pound",
+      "symbol": "£"
+    },
+    "JPY": {
+      "code": "JPY",
+      "name": "Japanese Yen",
+      "symbol": "¥"
+    },
+    "CHF": {
+      "code": "CHF",
+      "name": "Swiss Franc",
+      "symbol": "CHF"
+    }
+  },
+  "labels": {
+    "fromCurrency": "From",
+    "toCurrency": "To",
+    "amount": "Amount",
+    "result": "Result",
+    "selectCurrency": "Select Currency",
+    "convert": "Convert"
+  }
+}

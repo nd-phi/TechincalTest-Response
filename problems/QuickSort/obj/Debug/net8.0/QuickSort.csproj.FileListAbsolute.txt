@@ -1,0 +1,15 @@
+D:\GIt\TechnicalTest-Response\problems\QuickSort\bin\Debug\net8.0\QuickSort.exe
+D:\GIt\TechnicalTest-Response\problems\QuickSort\bin\Debug\net8.0\QuickSort.deps.json
+D:\GIt\TechnicalTest-Response\problems\QuickSort\bin\Debug\net8.0\QuickSort.runtimeconfig.json
+D:\GIt\TechnicalTest-Response\problems\QuickSort\bin\Debug\net8.0\QuickSort.dll
+D:\GIt\TechnicalTest-Response\problems\QuickSort\bin\Debug\net8.0\QuickSort.pdb
+D:\GIt\TechnicalTest-Response\problems\QuickSort\obj\Debug\net8.0\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIt\TechnicalTest-Response\problems\QuickSort\obj\Debug\net8.0\QuickSort.AssemblyInfoInputs.cache
+D:\GIt\TechnicalTest-Response\problems\QuickSort\obj\Debug\net8.0\QuickSort.AssemblyInfo.cs
+D:\GIt\TechnicalTest-Response\problems\QuickSort\obj\Debug\net8.0\QuickSort.csproj.CoreCompileInputs.cache
+D:\GIt\TechnicalTest-Response\problems\QuickSort\obj\Debug\net8.0\QuickSort.sourcelink.json
+D:\GIt\TechnicalTest-Response\problems\QuickSort\obj\Debug\net8.0\QuickSort.dll
+D:\GIt\TechnicalTest-Response\problems\QuickSort\obj\Debug\net8.0\refint\QuickSort.dll
+D:\GIt\TechnicalTest-Response\problems\QuickSort\obj\Debug\net8.0\QuickSort.pdb
+D:\GIt\TechnicalTest-Response\problems\QuickSort\obj\Debug\net8.0\QuickSort.genruntimeconfig.cache
+D:\GIt\TechnicalTest-Response\problems\QuickSort\obj\Debug\net8.0\ref\QuickSort.dll

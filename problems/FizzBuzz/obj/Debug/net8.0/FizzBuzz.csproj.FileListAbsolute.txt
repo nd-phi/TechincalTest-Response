@@ -1,0 +1,15 @@
+D:\GIt\TechnicalTest-Response\problems\FizzBuzz\obj\Debug\net8.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIt\TechnicalTest-Response\problems\FizzBuzz\obj\Debug\net8.0\FizzBuzz.AssemblyInfoInputs.cache
+D:\GIt\TechnicalTest-Response\problems\FizzBuzz\obj\Debug\net8.0\FizzBuzz.AssemblyInfo.cs
+D:\GIt\TechnicalTest-Response\problems\FizzBuzz\obj\Debug\net8.0\FizzBuzz.csproj.CoreCompileInputs.cache
+D:\GIt\TechnicalTest-Response\problems\FizzBuzz\obj\Debug\net8.0\FizzBuzz.sourcelink.json
+D:\GIt\TechnicalTest-Response\problems\FizzBuzz\bin\Debug\net8.0\FizzBuzz.exe
+D:\GIt\TechnicalTest-Response\problems\FizzBuzz\bin\Debug\net8.0\FizzBuzz.deps.json
+D:\GIt\TechnicalTest-Response\problems\FizzBuzz\bin\Debug\net8.0\FizzBuzz.runtimeconfig.json
+D:\GIt\TechnicalTest-Response\problems\FizzBuzz\bin\Debug\net8.0\FizzBuzz.dll
+D:\GIt\TechnicalTest-Response\problems\FizzBuzz\bin\Debug\net8.0\FizzBuzz.pdb
+D:\GIt\TechnicalTest-Response\problems\FizzBuzz\obj\Debug\net8.0\FizzBuzz.dll
+D:\GIt\TechnicalTest-Response\problems\FizzBuzz\obj\Debug\net8.0\refint\FizzBuzz.dll
+D:\GIt\TechnicalTest-Response\problems\FizzBuzz\obj\Debug\net8.0\FizzBuzz.pdb
+D:\GIt\TechnicalTest-Response\problems\FizzBuzz\obj\Debug\net8.0\FizzBuzz.genruntimeconfig.cache
+D:\GIt\TechnicalTest-Response\problems\FizzBuzz\obj\Debug\net8.0\ref\FizzBuzz.dll

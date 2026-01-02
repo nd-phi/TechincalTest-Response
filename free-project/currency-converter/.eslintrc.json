@@ -1,0 +1,25 @@
+{
+  "extends": [
+    "react-app",
+    "react-app/jest",
+    "prettier"
+  ],
+  "rules": {
+    "quotes": [
+      "warn",
+      "single",
+      {
+        "avoidEscape": true
+      }
+    ],
+    "semi": [
+      "warn",
+      "never"
+    ],
+    "no-extra-semi": "warn",
+    "indent": [
+      "warn",
+      2
+    ]
+  }
+}

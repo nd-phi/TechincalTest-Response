@@ -1,0 +1,38 @@
+{
+  "title": "Convertisseur de Devises",
+  "currencies": {
+    "USD": {
+      "code": "USD",
+      "name": "Dollar Américain",
+      "symbol": "$"
+    },
+    "EUR": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "GBP": {
+      "code": "GBP",
+      "name": "Livre Sterling",
+      "symbol": "£"
+    },
+    "JPY": {
+      "code": "JPY",
+      "name": "Yen Japonais",
+      "symbol": "¥"
+    },
+    "CHF": {
+      "code": "CHF",
+      "name": "Franc Suisse",
+      "symbol": "CHF"
+    }
+  },
+  "labels": {
+    "fromCurrency": "De",
+    "toCurrency": "Vers",
+    "amount": "Montant",
+    "result": "Résultat",
+    "selectCurrency": "Sélectionner une Devise",
+    "convert": "Convertir"
+  }
+}

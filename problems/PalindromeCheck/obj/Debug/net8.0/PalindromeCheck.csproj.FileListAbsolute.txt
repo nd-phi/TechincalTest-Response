@@ -1,0 +1,15 @@
+D:\GIt\TechnicalTest-Response\problems\PalindromeCheck\obj\Debug\net8.0\PalindromeCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIt\TechnicalTest-Response\problems\PalindromeCheck\obj\Debug\net8.0\PalindromeCheck.AssemblyInfoInputs.cache
+D:\GIt\TechnicalTest-Response\problems\PalindromeCheck\obj\Debug\net8.0\PalindromeCheck.AssemblyInfo.cs
+D:\GIt\TechnicalTest-Response\problems\PalindromeCheck\obj\Debug\net8.0\PalindromeCheck.csproj.CoreCompileInputs.cache
+D:\GIt\TechnicalTest-Response\problems\PalindromeCheck\obj\Debug\net8.0\PalindromeCheck.sourcelink.json
+D:\GIt\TechnicalTest-Response\problems\PalindromeCheck\bin\Debug\net8.0\PalindromeCheck.exe
+D:\GIt\TechnicalTest-Response\problems\PalindromeCheck\bin\Debug\net8.0\PalindromeCheck.deps.json
+D:\GIt\TechnicalTest-Response\problems\PalindromeCheck\bin\Debug\net8.0\PalindromeCheck.runtimeconfig.json
+D:\GIt\TechnicalTest-Response\problems\PalindromeCheck\bin\Debug\net8.0\PalindromeCheck.dll
+D:\GIt\TechnicalTest-Response\problems\PalindromeCheck\bin\Debug\net8.0\PalindromeCheck.pdb
+D:\GIt\TechnicalTest-Response\problems\PalindromeCheck\obj\Debug\net8.0\PalindromeCheck.dll
+D:\GIt\TechnicalTest-Response\problems\PalindromeCheck\obj\Debug\net8.0\refint\PalindromeCheck.dll
+D:\GIt\TechnicalTest-Response\problems\PalindromeCheck\obj\Debug\net8.0\PalindromeCheck.pdb
+D:\GIt\TechnicalTest-Response\problems\PalindromeCheck\obj\Debug\net8.0\PalindromeCheck.genruntimeconfig.cache
+D:\GIt\TechnicalTest-Response\problems\PalindromeCheck\obj\Debug\net8.0\ref\PalindromeCheck.dll

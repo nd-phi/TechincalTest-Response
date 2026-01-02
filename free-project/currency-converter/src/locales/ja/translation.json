@@ -1,0 +1,38 @@
+{
+  "title": "通貨換算ツール",
+  "currencies": {
+    "USD": {
+      "code": "USD",
+      "name": "米ドル",
+      "symbol": "$"
+    },
+    "EUR": {
+      "code": "EUR",
+      "name": "ユーロ",
+      "symbol": "€"
+    },
+    "GBP": {
+      "code": "GBP",
+      "name": "イギリスポンド",
+      "symbol": "£"
+    },
+    "JPY": {
+      "code": "JPY",
+      "name": "日本円",
+      "symbol": "¥"
+    },
+    "CHF": {
+      "code": "CHF",
+      "name": "スイスフラン",
+      "symbol": "CHF"
+    }
+  },
+  "labels": {
+    "fromCurrency": "から",
+    "toCurrency": "へ",
+    "amount": "金額",
+    "result": "結果",
+    "selectCurrency": "通貨を選択",
+    "convert": "変換"
+  }
+}

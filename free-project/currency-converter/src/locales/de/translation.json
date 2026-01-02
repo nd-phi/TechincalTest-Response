@@ -1,0 +1,38 @@
+{
+  "title": "Währungsumrechner",
+  "currencies": {
+    "USD": {
+      "code": "USD",
+      "name": "US-Dollar",
+      "symbol": "$"
+    },
+    "EUR": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "GBP": {
+      "code": "GBP",
+      "name": "Britisches Pfund",
+      "symbol": "£"
+    },
+    "JPY": {
+      "code": "JPY",
+      "name": "Japanischer Yen",
+      "symbol": "¥"
+    },
+    "CHF": {
+      "code": "CHF",
+      "name": "Schweizer Franken",
+      "symbol": "CHF"
+    }
+  },
+  "labels": {
+    "fromCurrency": "Von",
+    "toCurrency": "Zu",
+    "amount": "Betrag",
+    "result": "Ergebnis",
+    "selectCurrency": "Währung wählen",
+    "convert": "Konvertieren"
+  }
+}
